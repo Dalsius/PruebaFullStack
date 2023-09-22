@@ -1,4 +1,3 @@
-Front-End PruebaFullStack
 
 Datos para el Login:
 
